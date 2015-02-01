@@ -1,0 +1,21 @@
+body {
+display: inline;
+margin: 8px;
+}
+
+.Heading{
+	text-align: center;
+	border: 2px solid green;
+}
+
+.content{
+	margin:auto;
+	width:400px;
+}
+
+.button80{
+	border: 2px solid green;
+	background-color: red;
+	width: 7rem;
+	margin: auto;
+}
